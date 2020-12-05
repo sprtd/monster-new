@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #eef;
+  background: linear-gradient(to right, #fff, #ccc, #808080, #454549, #0c0c0cc7);
+  font-family: 'Kumbh Sans', sans-serif;
+
+}
+
+
+.container h1 {
+  box-sizing: border-box;
+  text-align: center;
+  color: rgb(182, 207, 187);
+}
+.container p {
+  text-align: center;
+  color: rgb(134, 15, 15);
+
+}
+
+
+
